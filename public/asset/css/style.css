@@ -1,0 +1,36 @@
+.cart-button {
+    color: #808072;
+    font-size: 40px;
+}
+.cart-button:hover {
+    color: #1355ff;
+}
+
+/*navbar*/
+nav.navbar {
+    background-color: #4e73df;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+nav.navbar a.navbar-brand {
+    color: white;
+}
+nav.navbar .navbar-nav li.nav-item {
+    /*background-color: white;*/
+    padding: 8px 5px;
+}
+nav.navbar .navbar-nav li.nav-item:hover {
+    background-color: white;
+}
+
+nav.navbar ul.navbar-nav li.nav-item a.nav-link {
+    color: white;
+}
+nav.navbar ul.navbar-nav li.nav-item:hover a.nav-link {
+    color: #4e73df;
+}
+
+/*search*/
+.search {
+
+}
